@@ -1,0 +1,6 @@
+{
+  "template": "00.config/templates/daily",
+  "autorun": true,
+  "folder": "02.Daily",
+  "format": "YYYY-MM-DD"
+}

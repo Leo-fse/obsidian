@@ -1,0 +1,12 @@
+{
+  "strictLineBreaks": false,
+  "showLineNumber": false,
+  "showRibbon": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01.Inbox",
+  "attachmentFolderPath": "00.config/attachments",
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
+}

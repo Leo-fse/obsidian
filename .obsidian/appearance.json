@@ -1,0 +1,11 @@
+{
+  "textFontFamily": "Yu Gothic UI",
+  "monospaceFontFamily": "Cascadia Mono",
+  "interfaceFontFamily": "Yu Gothic UI",
+  "cssTheme": "Things",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "mermaid"
+  ],
+  "baseFontSizeAction": true
+}

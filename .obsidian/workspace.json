@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "94b506c37a46b44b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e710d48393530df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12f00a221df5b8e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Inbox/データベースの作り方.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "868a7d48acc89274",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.Inbox/🌐Obsidian Plugin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57e102f95d4becca",
+    "type": "split",
+    "children": [
+      {
+        "id": "9863e89ff68cc339",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455c63dbf215f961",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b682187f76dbd3c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6ccf579325b7dcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "26e857ba0d0f7ae2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0902f29a00a5503",
+        "type": "tabs",
+        "dimension": 29.258517034068134,
+        "children": [
+          {
+            "id": "18be1614961048a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.Inbox/🌐Obsidian Plugin.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "83f7c9ccf280c22b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01.Inbox/🌐Obsidian Plugin.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf727f45b43a61d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "878d8af1085605bc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01.Inbox/🌐Obsidian Plugin.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2a781022d31d7efb",
+        "type": "tabs",
+        "dimension": 35.37074148296593,
+        "children": [
+          {
+            "id": "d1e72ce472ad14e0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "fa37dd99ebf6e12f",
+        "type": "tabs",
+        "dimension": 35.37074148296593,
+        "children": [
+          {
+            "id": "c54d0468a80b1a00",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false
+    }
+  },
+  "active": "868a7d48acc89274",
+  "lastOpenFiles": [
+    "01.Inbox/デジタルノートの取り方.md",
+    "01.Inbox/データベースの作り方.md",
+    "02.Daily/2024-10-14.md",
+    "02.Daily/2024-10-13.md",
+    "04.ReadItLater/ログカメラ｜カメラと共にステキな記録（ログ）.md",
+    "01.Inbox/🚧obsidianでmermaidを使ったときに横幅が収まらない.md",
+    "01.Inbox/mermaidの書き方.md",
+    "01.Inbox/エバーグリーンノート.md",
+    "01.Inbox/Templaterの使い方.md",
+    "01.Inbox/ノートの分類を考えた.md",
+    "00.config/templates/book.md",
+    "00.config/templates/daily.md",
+    "00.config/templates/index.md",
+    "00.config/templates/callout.md",
+    "01.Inbox/ER図.md",
+    "01.Inbox/Untitled.md",
+    "01.Inbox/Untitled 1.md",
+    "01.Inbox/!ER図.md",
+    "03.Books/読みたいことを、書けばいい。 - 田中泰延.md",
+    "03.Books/cover_image/読みたいことを、書けばいい。 - 田中泰延.jpg",
+    "04.ReadItLater/Obsidian でナレッジベース用のスターターキット「NPKB」を作った.md",
+    "04.ReadItLater/Obsidian カテゴリーの記事一覧 - Jazzと読書の日々.md",
+    "04.ReadItLater/📒Productivityを上げるために大切な100のこと.md",
+    "04.ReadItLater/assets/長期的な目標を管理するクライミングマップ.avif",
+    "04.ReadItLater/assets/デイリーノートのグラフビュー.avif",
+    "04.ReadItLater/assets/NPKB vault のイメージ.avif",
+    "01.Inbox/🌐Obsidian Plugin.md",
+    "01.Inbox/📗頻繁に使う遠いキーの位置を近づける.md",
+    "01.Inbox/📒Productivityを上げるために大切な100のこと.md",
+    "01.Inbox/Substack.md",
+    "04.ReadItLater/assets/グラフビュー.avif",
+    "04.ReadItLater/assets/デイリーノートの例.avif",
+    "04.ReadItLater/assets/NPKB で新規ノートを作成する.avif",
+    "04.ReadItLater/assets/NPKBのホームページ.avif",
+    "04.ReadItLater/assets",
+    "NPKB vault のイメージ.avif",
+    "デイリーノートの例.avif",
+    "04.ReadItRater",
+    "Inbox/ReadItLater",
+    "Inbox",
+    "00.config/attachments/keymap_cheatsheet_keyball39 (2).pdf",
+    "00.config/attachments/keymap_cheatsheet_keyball39 (3).pdf",
+    "keymap_cheatsheet_keyball39 (2).pdf",
+    "00.config/templates",
+    "00.config/attachments",
+    "00.config"
+  ]
+}
